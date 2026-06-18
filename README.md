@@ -1,30 +1,33 @@
-# ALY6130 Assignment 3 – Risk Assessment
+# ALY6130 Assignment 4 – Quantitative Risk Assessment Using I&W Analysis
 
 ## Group 7
 
-This repository contains the final deliverables for Assignment 3, including:
+This repository contains the final deliverables for Assignment 4, including:
 
-* Final Risk Assessment Report
-* Risk Calculation Workbook
-* Python Risk Heat Map Notebook
-* Individual Contribution Report
+- Quantitative Risk Assessment Report
+- Updated Risk Treatment & Response Plan (RT&RP)
+- Quantitative Risk Assessment Data Source Workbook
+- Jupyter Notebook (Monte Carlo Simulation, Sensitivity Analysis, and EMV Analysis)
+- Individual Contribution Reports
 
 ## Project Responsibilities
 
 ### Anthony Onwuka
 
-Responsible for the Introduction, Acquisition Context and Market Opportunity, Competitive Landscape, Regulatory Landscape, Stakeholder Analysis, and Market Forces and Risk Implications sections.
+Responsible for the quantitative assessment of Risk 2 (Regulatory & Compliance Exposure) using the Indicators and Warnings (I&W) framework and Sensitivity Analysis. Developed compliance-focused indicators and warning thresholds, conducted sensitivity modeling, identified key regulatory impact drivers, developed risk treatment recommendations, and contributed machine learning enhancement concepts using Gradient Boosting classification models.
 
 ### Efemena Okpa
 
-Responsible for the Risk Narrative, Impact Statement, Evidence Base for Risk Scoring, SWOT Analysis and Interpretation, and Risk Interdependency Analysis sections.
+Responsible for the quantitative assessment of Risk 1 (Data Privacy Breach) using the Indicators and Warnings (I&W) framework and Monte Carlo Simulation. Developed cybersecurity indicators and warning thresholds, established simulation assumptions and loss scenarios, analyzed probability distributions and financial outcomes, developed cybersecurity risk treatment recommendations, and contributed machine learning enhancement concepts using Isolation Forest anomaly detection.
 
 ### Oluwatomi Ottun
 
-Responsible for the Risk Scoring Methodology, Risk Prioritization Framework, Risk Register Development, Highest-Priority Risk Analysis, Excel Heat Maps, Python Heat Map Development, and Conclusion.
+Served as project coordinator and lead analyst. Responsible for the overall design and integration of the Indicators and Warnings (I&W) assessment framework, coordination of quantitative assessment activities, and development of Risk 3 (First-Mover Market Capture Opportunity) using Expected Monetary Value (EMV) analysis. Consolidated quantitative findings into the updated RT&RP, coordinated the incorporation of Monte Carlo Simulation, Sensitivity Analysis, and machine learning enhancement concepts, and led report preparation, quality assurance, final deliverable integration, and submission activities.
 
 ## Project Summary
 
-The project evaluates 30 risks associated with CIBC’s acquisition of a digital insurance platform. Risks were assessed using the ALY6130 Risk Calculation Sheet and visualized through Excel and Python heat maps. The analysis integrates internal and external risk factors, competitive conditions, regulatory requirements, and industry evidence to support risk prioritization and management decision-making.
+This project applies the Indicators and Warnings (I&W) framework to quantitatively assess the three highest-priority risks identified during the Module 3 Risk Assessment for CIBC's proposed acquisition of a digital insurance platform.
 
-The final deliverables incorporate feedback received from previous project phases and demonstrate the application of risk assessment, scoring, visualization, and reporting techniques.
+Risk 1 (Data Privacy Breach) was evaluated using Monte Carlo Simulation to estimate potential financial losses and establish contingency reserve requirements. Risk 2 (Regulatory & Compliance Exposure) was assessed using Sensitivity Analysis to identify the variables with the greatest influence on regulatory risk outcomes. Risk 3 (First-Mover Market Capture Opportunity) was evaluated using Expected Monetary Value (EMV) analysis to quantify the financial benefits associated with successful market entry and customer adoption.
+
+The project integrates quantitative risk analytics, machine learning enhancement concepts, and updated risk treatment recommendations to support proactive risk monitoring, informed decision-making, and effective governance. The final deliverables demonstrate the application of Monte Carlo Simulation, Sensitivity Analysis, EMV analysis, and Indicators and Warnings methodologies within an enterprise risk management context.
