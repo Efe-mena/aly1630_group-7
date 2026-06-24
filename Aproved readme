@@ -1,0 +1,47 @@
+# Quantitative Analysis Project
+
+## Overview
+This repository contains a Jupyter Notebook (`quantitative_analysis.ipynb`) developed for a quantitative analysis assignment. The notebook includes data analysis, visualization, and statistical techniques used to answer the project questions.
+
+## Files
+- `quantitative_analysis.ipynb` – Main Jupyter Notebook containing the complete analysis.
+- `README.md` – Project description and usage instructions.
+
+## Requirements
+To run the notebook, install the following packages:
+
+- Python 3.x
+- Jupyter Notebook
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn (if used)
+
+Install them using:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
+## How to Run
+
+1. Clone this repository.
+2. Open the project folder.
+3. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+4. Open `quantitative_analysis.ipynb` and run all cells.
+
+## Author
+
+Anthony Onwuka
+
+## Course
+
+ALY 6000 – Introduction to Analytics
+
+## License
+
+This project is submitted for academic purposes only.
