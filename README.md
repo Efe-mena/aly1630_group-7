@@ -1,33 +1,112 @@
-# ALY6130 Assignment 4 – Quantitative Risk Assessment Using I&W Analysis
+# Enterprise Risk Management Analytics
 
-## Group 7
+## Project Title
 
-This repository contains the final deliverables for Assignment 4, including:
+A Comprehensive Quantitative Risk Assessment of CIBC's Acquisition of a Digital Insurance Platform
 
-- Quantitative Risk Assessment Report
-- Updated Risk Treatment & Response Plan (RT&RP)
-- Quantitative Risk Assessment Data Source Workbook
-- Jupyter Notebook (Monte Carlo Simulation, Sensitivity Analysis, and EMV Analysis)
-- Individual Contribution Reports
+## Overview
 
-## Project Responsibilities
+This project evaluates the enterprise risks associated with CIBC's proposed acquisition of a digital insurance platform. The assessment combines qualitative and quantitative risk analytics to identify, assess, and respond to cybersecurity, regulatory, operational, strategic, financial, technology, and reputational risks.
 
-### Anthony Onwuka
+The project integrates Enterprise Risk Management (ERM) principles with scenario analysis, predictive analytics, machine learning techniques, Monte Carlo simulation, sensitivity analysis, Expected Monetary Value (EMV) analysis, and Key Risk Indicators (KRIs) to support evidence-based decision making.
 
-Responsible for the quantitative assessment of Risk 2 (Regulatory & Compliance Exposure) using the Indicators and Warnings (I&W) framework and Sensitivity Analysis. Developed compliance-focused indicators and warning thresholds, conducted sensitivity modeling, identified key regulatory impact drivers, developed risk treatment recommendations, and contributed machine learning enhancement concepts using Gradient Boosting classification models.
+## Objectives
 
-### Efemena Okpa
+* Identify enterprise risks associated with the acquisition.
+* Assess risk likelihood and impact using qualitative and quantitative methods.
+* Apply machine learning and predictive analytics to support risk monitoring.
+* Develop risk response strategies and KRIs.
+* Provide management with evidence-based recommendations regarding the acquisition.
 
-Responsible for the quantitative assessment of Risk 1 (Data Privacy Breach) using the Indicators and Warnings (I&W) framework and Monte Carlo Simulation. Developed cybersecurity indicators and warning thresholds, established simulation assumptions and loss scenarios, analyzed probability distributions and financial outcomes, developed cybersecurity risk treatment recommendations, and contributed machine learning enhancement concepts using Isolation Forest anomaly detection.
+## Methods Used
+
+### Qualitative Assessment
+
+* SWOT Analysis
+* PESTLE Analysis
+* Scenario Analytics
+* Industry Fusion Analytics
+
+### Quantitative Assessment
+
+* Monte Carlo Simulation
+* Sensitivity Analysis
+* Expected Monetary Value (EMV)
+* Indicators and Warnings (I&W) Analysis
+
+### Machine Learning Approaches
+
+* Isolation Forest
+* Gradient Boosting
+* LSTM Forecasting
+
+## Key Findings
+
+### R1 – Data Privacy Breach
+
+* Mean Expected Loss: CAD $82.8M
+* Probability of Loss > CAD $100M: 25.6%
+* Recommended Contingency Reserve: CAD $119M
+
+### R2 – Regulatory and Compliance Exposure
+
+* Most influential driver: Regulatory Halt Probability
+* Sensitivity Impact: ± CAD $11.8M
+
+### R3 – First-Mover Market Capture
+
+* Expected Monetary Value (EMV): CAD $187.1M
+
+## Repository Structure
+
+* data/raw/ – Risk Register, Risk Calculation Sheet, and RT&RP
+* notebooks/ – Quantitative analysis and Monte Carlo simulation notebooks
+* report/ – Final project report
+
+## Team Contributions
 
 ### Oluwatomi Ottun
 
-Served as project coordinator and lead analyst. Responsible for the overall design and integration of the Indicators and Warnings (I&W) assessment framework, coordination of quantitative assessment activities, and development of Risk 3 (First-Mover Market Capture Opportunity) using Expected Monetary Value (EMV) analysis. Consolidated quantitative findings into the updated RT&RP, coordinated the incorporation of Monte Carlo Simulation, Sensitivity Analysis, and machine learning enhancement concepts, and led report preparation, quality assurance, final deliverable integration, and submission activities.
+* Scenario Analytics
+* Industry Fusion Analytics
+* Monte Carlo Simulation
+* Sensitivity Analysis
+* Expected Monetary Value (EMV) Analysis
+* Probability distributions and modelling assumptions
+* Machine learning approaches (Isolation Forest, Gradient Boosting, LSTM)
+* Quantitative interpretation and report integration
 
-## Project Summary
+### Efemena Okpa
 
-This project applies the Indicators and Warnings (I&W) framework to quantitatively assess the three highest-priority risks identified during the Module 3 Risk Assessment for CIBC's proposed acquisition of a digital insurance platform.
+* Risk identification
+* Internal and external environment analysis
+* Regulatory and industry assessment
+* Risk statements and risk evaluation
+* Risk response strategies
+* KRI development
+* Report review and presentation preparation
 
-Risk 1 (Data Privacy Breach) was evaluated using Monte Carlo Simulation to estimate potential financial losses and establish contingency reserve requirements. Risk 2 (Regulatory & Compliance Exposure) was assessed using Sensitivity Analysis to identify the variables with the greatest influence on regulatory risk outcomes. Risk 3 (First-Mover Market Capture Opportunity) was evaluated using Expected Monetary Value (EMV) analysis to quantify the financial benefits associated with successful market entry and customer adoption.
+### Anthony Onwuka
 
-The project integrates quantitative risk analytics, machine learning enhancement concepts, and updated risk treatment recommendations to support proactive risk monitoring, informed decision-making, and effective governance. The final deliverables demonstrate the application of Monte Carlo Simulation, Sensitivity Analysis, EMV analysis, and Indicators and Warnings methodologies within an enterprise risk management context.
+* Risk Treatment and Response Plan (RT&RP)
+* Risk register support and calculations
+* Risk ownership and monitoring procedures
+* Project documentation
+* GitHub repository organization
+* Report formatting and final submission support
+
+## Authors
+
+Group 7
+
+* Oluwatomi Ottun
+* Efemena Okpa
+* Anthony Onwuka
+
+## Course
+
+ALY6130 – Risk Management Analytics
+
+Instructor: Abeba N. Turi
+
+Spring 2026
